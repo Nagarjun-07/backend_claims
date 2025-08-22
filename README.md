@@ -9,7 +9,6 @@ A FastAPI-based service for auditing documents and extracting verifiable claims 
 - Claim classification (Financial, Operational, Legal & Compliance, ESG)
 - Evidence retrieval from web sources and research papers
 - Claim verification and evaluation
-
 ## Setup
 
 1. **Install dependencies:**
